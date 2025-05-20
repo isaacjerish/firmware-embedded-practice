@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create folders
-mkdir -p arrays strings linked_lists stacks_and_queues bit_manipulation memory questions answers/utils utils
+mkdir -p arrays strings linked_lists stacks_and_queues bit_manipulation memory
 
 # Questions and answers folders per topic
 for topic in arrays strings linked_lists stacks_and_queues bit_manipulation memory misc; do
