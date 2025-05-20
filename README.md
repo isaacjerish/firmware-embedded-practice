@@ -24,4 +24,6 @@ This repo is a work-in-progress collection of embedded/firmware coding problems 
 
 If you find any issues or have suggestions, feel free to reach out. Otherwise, thanks for checking it out.
 
+Topic list is based off of the following guide, which I also recommend checking out for a general guide on how to crush firmware & embedded interviews: https://medium.com/@akashagrawal_33749/cracking-the-firmware-embedded-systems-engineer-interview-d73a37da95bd
+
 — Isaac
